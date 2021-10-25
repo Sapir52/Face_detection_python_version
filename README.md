@@ -38,12 +38,16 @@ For age, gender and race:
 
 ![Accurecy_agr_detection_CNN](https://user-images.githubusercontent.com/63209732/138657064-d0d28816-d76b-4fd3-8472-51e3eb741bec.png)
 
-## The site
+## The site:
 Main page:
+
+![main_img](https://user-images.githubusercontent.com/63209732/138659517-18cfe92f-6c9e-4fd7-aaa7-6d5501143309.png)
 
 For images:
 
 ![img_res](https://user-images.githubusercontent.com/63209732/138657376-8d3d63b9-7c50-4fe4-9761-6a23de443b35.png)
 
-For video:
+For videos:
+![video_up](https://user-images.githubusercontent.com/63209732/138660436-091e89da-60dd-42d4-a48a-4aa269fac318.png)
 
+![video_img](https://user-images.githubusercontent.com/63209732/138659540-c1866a9f-8fec-40a0-a3cb-950f586f270d.png)
