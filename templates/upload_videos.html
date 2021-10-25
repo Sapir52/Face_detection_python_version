@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+	<title>Face Emotion Recognition</title>
+
+	<style>
+		body{
+		  background-image:url("static/face.png");
+		  background-attachment: fixed;
+
+		}
+		div.header {
+		  text-align: center;
+		}
+	</style>
+
+	<div class="header">
+		<div class="header">
+			<body>
+			  <h1>Live mp4</h1>
+			  <div>
+				  <img src="{{ url_for('get_live_mp4') }}" width="50%"/>
+			  </div>
+			</body>
+
+		</div>
+	</div>
+</html>
