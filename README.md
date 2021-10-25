@@ -28,6 +28,8 @@ https://www.kaggle.com/jangedoo/utkface-new
 ## Evaluation of the models:
 For emotion detection:
 
+![emotion](https://user-images.githubusercontent.com/63209732/138666921-9e703520-3ec6-4511-b7c7-193b9a67a5ff.png)
+
 ![Accuracy_emotion_detection_CNN](https://user-images.githubusercontent.com/63209732/138656977-763fdf1e-de5e-46e5-9b48-e37fdac0f2ec.png)
 
 ![Loss_emotion_detection_CNN](https://user-images.githubusercontent.com/63209732/138657004-396a3f5c-cfe8-4720-9fe8-53ff1b451850.png)
@@ -37,6 +39,13 @@ For age, gender and race:
 ![Accurecy_agr_detection_CNN](https://user-images.githubusercontent.com/63209732/138657347-25219dad-60c8-477f-9a75-bc9f85421824.png)
 
 ![Loss_agr_detection_CNN](https://user-images.githubusercontent.com/63209732/138660886-02b7c62f-059b-4a06-bcaa-01cb2e62c131.png)
+
+![age](https://user-images.githubusercontent.com/63209732/138667121-c187d620-405e-4416-adac-5ac007f0fb39.png)
+
+![gender](https://user-images.githubusercontent.com/63209732/138667154-21c44b03-cdae-4500-87a5-7a54efc7393e.png)
+
+![race](https://user-images.githubusercontent.com/63209732/138667179-0f1521fc-1b10-4dd7-9306-93c4e45365e2.png)
+
 
 ## The site:
 Main page:
