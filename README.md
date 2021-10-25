@@ -36,7 +36,7 @@ For age, gender and race:
 
 ![Accurecy_agr_detection_CNN](https://user-images.githubusercontent.com/63209732/138657347-25219dad-60c8-477f-9a75-bc9f85421824.png)
 
-![Accurecy_agr_detection_CNN](https://user-images.githubusercontent.com/63209732/138657064-d0d28816-d76b-4fd3-8472-51e3eb741bec.png)
+![Loss_agr_detection_CNN](https://user-images.githubusercontent.com/63209732/138660886-02b7c62f-059b-4a06-bcaa-01cb2e62c131.png)
 
 ## The site:
 Main page:
