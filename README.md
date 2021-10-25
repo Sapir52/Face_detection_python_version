@@ -54,7 +54,7 @@ Main page:
 
 For images:
 
-![img_res](https://user-images.githubusercontent.com/63209732/138657376-8d3d63b9-7c50-4fe4-9761-6a23de443b35.png)
+![img_page](https://user-images.githubusercontent.com/63209732/138722508-8d5cae32-9e81-4a2f-9cc5-d6c47a4f6058.png)
 
 For videos:
 ![video_up](https://user-images.githubusercontent.com/63209732/138660436-091e89da-60dd-42d4-a48a-4aa269fac318.png)
