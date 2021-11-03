@@ -62,4 +62,6 @@ For videos:
 
 ![video_img](https://user-images.githubusercontent.com/63209732/138659540-c1866a9f-8fec-40a0-a3cb-950f586f270d.png)
 
-## Running the code:
+## Run: 
+application.py
+  
