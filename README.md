@@ -8,7 +8,7 @@ The purpose of the project is to build a face recognition app.
 The face will allow to predict the emotion, age, gender, race and type of emoji.
 
 ## DataSet:
-In the project I used two dataStes taken from the Kaggle website.
+In the project I used two dataSets taken from the Kaggle website.
 
 For emotion detection:
 https://www.kaggle.com/gauravsharma99/ck48-5-emotions
