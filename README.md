@@ -1,4 +1,5 @@
 # Face detection python version
+
 Face detection is one of the most common applications of Artificial Intelligence.
 
 ## The goal of the project:
